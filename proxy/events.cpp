@@ -674,7 +674,7 @@ bool events::out::generictext(std::string packet) {
         else if (find_command(chat, "proxy")) {
             std::string paket;
             paket =
-                "\nadd_label_with_icon|big|Proxy Commands|left|32|"
+                "\nadd_label_with_icon|big|Testz Proxy Commands|left|32|"
                 "\nadd_spacer|small"
                 "\nadd_textbox|`9/proxy `#(Show Commands)|left|2480|"
                 "\nadd_textbox|`9/menu `#(Show Menu)|left|2480|"
